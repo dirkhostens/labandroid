@@ -1,1 +1,74 @@
-[{"MatchNumber":1,"RoundNumber":1,"DateUtc":"2022-11-20 16:00:00Z","Location":"Al Bayt Stadium","HomeTeam":"Qatar","AwayTeam":"Ecuador","Group":"Group A","HomeTeamScore":0,"AwayTeamScore":2},{"MatchNumber":3,"RoundNumber":1,"DateUtc":"2022-11-21 13:00:00Z","Location":"Khalifa International Stadium","HomeTeam":"England","AwayTeam":"Iran","Group":"Group B","HomeTeamScore":6,"AwayTeamScore":2},{"MatchNumber":2,"RoundNumber":1,"DateUtc":"2022-11-21 16:00:00Z","Location":"Al Thumama Stadium","HomeTeam":"Senegal","AwayTeam":"Netherlands","Group":"Group A","HomeTeamScore":0,"AwayTeamScore":2},{"MatchNumber":4,"RoundNumber":1,"DateUtc":"2022-11-21 19:00:00Z","Location":"Ahmad Bin Ali Stadium","HomeTeam":"USA","AwayTeam":"Wales","Group":"Group B","HomeTeamScore":1,"AwayTeamScore":1},{"MatchNumber":8,"RoundNumber":1,"DateUtc":"2022-11-22 10:00:00Z","Location":"Lusail Stadium","HomeTeam":"Argentina","AwayTeam":"Saudi Arabia","Group":"Group C","HomeTeamScore":1,"AwayTeamScore":2},{"MatchNumber":6,"RoundNumber":1,"DateUtc":"2022-11-22 13:00:00Z","Location":"Education City Stadium","HomeTeam":"Denmark","AwayTeam":"Tunisia","Group":"Group D","HomeTeamScore":0,"AwayTeamScore":0},{"MatchNumber":7,"RoundNumber":1,"DateUtc":"2022-11-22 16:00:00Z","Location":"Stadium 974","HomeTeam":"Mexico","AwayTeam":"Poland","Group":"Group C","HomeTeamScore":0,"AwayTeamScore":0},{"MatchNumber":5,"RoundNumber":1,"DateUtc":"2022-11-22 19:00:00Z","Location":"Al Janoub Stadium","HomeTeam":"France","AwayTeam":"Australia","Group":"Group D","HomeTeamScore":4,"AwayTeamScore":1},{"MatchNumber":12,"RoundNumber":1,"DateUtc":"2022-11-23 10:00:00Z","Location":"Al Bayt Stadium","HomeTeam":"Morocco","AwayTeam":"Croatia","Group":"Group F","HomeTeamScore":0,"AwayTeamScore":0},{"MatchNumber":11,"RoundNumber":1,"DateUtc":"2022-11-23 13:00:00Z","Location":"Khalifa International Stadium","HomeTeam":"Germany","AwayTeam":"Japan","Group":"Group E","HomeTeamScore":1,"AwayTeamScore":2},{"MatchNumber":10,"RoundNumber":1,"DateUtc":"2022-11-23 16:00:00Z","Location":"Al Thumama Stadium","HomeTeam":"Spain","AwayTeam":"Costa Rica","Group":"Group E","HomeTeamScore":7,"AwayTeamScore":0},{"MatchNumber":9,"RoundNumber":1,"DateUtc":"2022-11-23 19:00:00Z","Location":"Ahmad Bin Ali Stadium","HomeTeam":"Belgium","AwayTeam":"Canada","Group":"Group F","HomeTeamScore":1,"AwayTeamScore":0},{"MatchNumber":13,"RoundNumber":1,"DateUtc":"2022-11-24 10:00:00Z","Location":"Al Janoub Stadium","HomeTeam":"Switzerland","AwayTeam":"Cameroon","Group":"Group G","HomeTeamScore":1,"AwayTeamScore":0},{"MatchNumber":14,"RoundNumber":1,"DateUtc":"2022-11-24 13:00:00Z","Location":"Education City Stadium","HomeTeam":"Uruguay","AwayTeam":"Korea Republic","Group":"Group H","HomeTeamScore":0,"AwayTeamScore":0},{"MatchNumber":15,"RoundNumber":1,"DateUtc":"2022-11-24 16:00:00Z","Location":"Stadium 974","HomeTeam":"Portugal","AwayTeam":"Ghana","Group":"Group H","HomeTeamScore":3,"AwayTeamScore":2},{"MatchNumber":16,"RoundNumber":1,"DateUtc":"2022-11-24 19:00:00Z","Location":"Lusail Stadium","HomeTeam":"Brazil","AwayTeam":"Serbia","Group":"Group G","HomeTeamScore":2,"AwayTeamScore":0}]
+{
+  "todos": [
+    {
+      "number": 1,
+      "title": "Set up Android Studio",
+      "description": "Install and configure Android Studio for the development environment.",
+      "assignedUserId": 123,
+      "timeEstimated": 2
+    },
+    {
+      "number": 2,
+      "title": "Implement User Authentication",
+      "description": "Integrate user authentication functionality using Firebase Authentication.",
+      "assignedUserId": 456,
+      "timeEstimated": 3
+    },
+    {
+      "number": 3,
+      "title": "Design UI for Main Screen",
+      "description": "Create an appealing user interface for the main screen of the app.",
+      "assignedUserId": 789,
+      "timeEstimated": 5
+    },
+    {
+      "number": 4,
+      "title": "Test Push Notifications",
+      "description": "Implement and test push notifications using Firebase Cloud Messaging (FCM).",
+      "assignedUserId": 234,
+      "timeEstimated": 4
+    },
+    {
+      "number": 5,
+      "title": "Implement Database Integration",
+      "description": "Integrate SQLite or Room Database for local data storage.",
+      "assignedUserId": 567,
+      "timeEstimated": 6
+    },
+    {
+      "number": 6,
+      "title": "Bug Fixing and Optimization",
+      "description": "Address and fix any bugs while optimizing the app's performance.",
+      "assignedUserId": 890,
+      "timeEstimated": 2
+    },
+    {
+      "number": 7,
+      "title": "Implement User Profile Feature",
+      "description": "Develop a user profile feature, allowing users to manage their profiles.",
+      "assignedUserId": 123,
+      "timeEstimated": 8
+    },
+    {
+      "number": 8,
+      "title": "Optimize UI for Different Screen Sizes",
+      "description": "Ensure the app's user interface is optimized for various Android screen sizes.",
+      "assignedUserId": 456,
+      "timeEstimated": 5
+    },
+    {
+      "number": 9,
+      "title": "Write Unit Tests",
+      "description": "Create unit tests to ensure the reliability of critical app functionalities.",
+      "assignedUserId": 789,
+      "timeEstimated": 3
+    },
+    {
+      "number": 10,
+      "title": "Prepare for Beta Testing",
+      "description": "Finalize features and prepare the app for beta testing with selected users.",
+      "assignedUserId": 234,
+      "timeEstimated": 4
+    }
+  ]
+}
