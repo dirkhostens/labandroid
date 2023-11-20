@@ -11,7 +11,7 @@
       "number": 2,
       "title": "Implement User Authentication",
       "description": "Integrate user authentication functionality using Firebase Authentication.",
-      "assignedUserId": 1,
+      "assignedUserId": 100,
       "timeEstimated": 3
     },
     {
@@ -25,7 +25,7 @@
       "number": 4,
       "title": "Test Push Notifications",
       "description": "Implement and test push notifications using Firebase Cloud Messaging (FCM).",
-      "assignedUserId": 1,
+      "assignedUserId": 13,
       "timeEstimated": 4
     },
     {
