@@ -1,5 +1,4 @@
-{
-  "todos": [
+[
     {
       "number": 1,
       "title": "Set up Android Studio",
@@ -71,4 +70,3 @@
       "timeEstimated": 4
     }
   ]
-}
